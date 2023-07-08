@@ -54,12 +54,6 @@
           }
         },
         {
-          "name": "Areas",
-          "identifier": {
-            "ModrinthProject": "NWvsqJ2Z"
-          }
-        },
-        {
           "name": "Auditory",
           "identifier": {
             "ModrinthProject": "1LjfkWOR"
@@ -117,12 +111,6 @@
           "name": "Borderless Mining",
           "identifier": {
             "ModrinthProject": "kYq5qkSL"
-          }
-        },
-        {
-          "name": "CameraOverhaul",
-          "identifier": {
-            "ModrinthProject": "m0oRwcZx"
           }
         },
         {
@@ -324,12 +312,6 @@
           }
         },
         {
-          "name": "First-person Model",
-          "identifier": {
-            "ModrinthProject": "H5XMjpHi"
-          }
-        },
-        {
           "name": "Forge Config API Port",
           "identifier": {
             "ModrinthProject": "ohNO6lps"
@@ -345,12 +327,6 @@
           "name": "ForgetMeChunk",
           "identifier": {
             "ModrinthProject": "vRXn3MrA"
-          }
-        },
-        {
-          "name": "GrassKiss",
-          "identifier": {
-            "ModrinthProject": "KelLCoVr"
           }
         },
         {
@@ -561,12 +537,6 @@
           "name": "ShulkerBoxTooltip",
           "identifier": {
             "ModrinthProject": "2M01OLQq"
-          }
-        },
-        {
-          "name": "Simple Voice Chat",
-          "identifier": {
-            "ModrinthProject": "9eGKb6K1"
           }
         },
         {
