@@ -3,9 +3,9 @@
   "active_modpack": 0,
   "profiles": [
     {
-      "name": "1.19.2",
-      "output_dir": "C:\\Users\\tilma\\AppData\\Roaming\\.minecraft-1.19.2\\mods",
-      "game_version": "1.19.2",
+      "name": "Latest Version",
+      "output_dir": "C:\\Users\\tilma\\AppData\\Roaming\\.minecraft-1.20.1\\mods",
+      "game_version": "1.20.1",
       "mod_loader": "Fabric",
       "mods": [
         {
@@ -36,6 +36,15 @@
           "name": "AntiGhost",
           "identifier": {
             "ModrinthProject": "Jw3Wx1KR"
+          }
+        },
+        {
+          "name": "Anvil-Uses",
+          "identifier": {
+            "GitHubRepository": [
+              "Z1proW",
+              "Anvil-Uses"
+            ]
           }
         },
         {
@@ -75,6 +84,18 @@
           }
         },
         {
+          "name": "Better Ping Display [Fabric]",
+          "identifier": {
+            "ModrinthProject": "MS1ZMyR7"
+          }
+        },
+        {
+          "name": "Better Statistics Screen (Fabric)",
+          "identifier": {
+            "ModrinthProject": "n6PXGAoM"
+          }
+        },
+        {
           "name": "Better Third Person",
           "identifier": {
             "CurseForgeProject": 435044
@@ -96,12 +117,6 @@
           "name": "Borderless Mining",
           "identifier": {
             "ModrinthProject": "kYq5qkSL"
-          }
-        },
-        {
-          "name": "Camera Utils",
-          "identifier": {
-            "ModrinthProject": "rrwQMaWQ"
           }
         },
         {
@@ -189,6 +204,12 @@
           }
         },
         {
+          "name": "DashLoader",
+          "identifier": {
+            "ModrinthProject": "ZfQ3kTvR"
+          }
+        },
+        {
           "name": "DeepslateCutting",
           "identifier": {
             "ModrinthProject": "IiuFShHs"
@@ -252,6 +273,12 @@
           "name": "Effective 💦",
           "identifier": {
             "CurseForgeProject": 556381
+          }
+        },
+        {
+          "name": "Enhanced Block Entities",
+          "identifier": {
+            "ModrinthProject": "OVuFYfre"
           }
         },
         {
@@ -321,6 +348,12 @@
           }
         },
         {
+          "name": "GrassKiss",
+          "identifier": {
+            "ModrinthProject": "KelLCoVr"
+          }
+        },
+        {
           "name": "HerdsPanic",
           "identifier": {
             "CurseForgeProject": 429383
@@ -351,6 +384,12 @@
           }
         },
         {
+          "name": "Iris Shaders",
+          "identifier": {
+            "ModrinthProject": "YL57xq9U"
+          }
+        },
+        {
           "name": "Isometric Renders",
           "identifier": {
             "ModrinthProject": "M0aimenU"
@@ -366,12 +405,6 @@
           "name": "Item Highlighter",
           "identifier": {
             "ModrinthProject": "cVNW5lr6"
-          }
-        },
-        {
-          "name": "ItemPhysic",
-          "identifier": {
-            "ModrinthProject": "aT8BzaOj"
           }
         },
         {
@@ -474,6 +507,12 @@
           "name": "Patchouli (Fabric/Quilt)",
           "identifier": {
             "CurseForgeProject": 393236
+          }
+        },
+        {
+          "name": "Phosphor",
+          "identifier": {
+            "ModrinthProject": "hEOCdOgW"
           }
         },
         {
@@ -588,6 +627,18 @@
           "name": "Terralith",
           "identifier": {
             "ModrinthProject": "8oi3bsk5"
+          }
+        },
+        {
+          "name": "Tiny Item Animations",
+          "identifier": {
+            "ModrinthProject": "wMkevcSR"
+          }
+        },
+        {
+          "name": "ToolTipFix",
+          "identifier": {
+            "ModrinthProject": "2RKFTmiB"
           }
         },
         {
